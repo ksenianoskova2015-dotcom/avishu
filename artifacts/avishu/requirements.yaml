@@ -1,0 +1,19 @@
+packages:
+  "framer-motion": "For premium smooth page transitions and micro-interactions"
+  "date-fns": "For formatting order dates in a human-readable format"
+  "clsx": "For conditional class name merging"
+  "tailwind-merge": "For merging tailwind classes safely"
+  "lucide-react": "For crisp, modern SVG icons"
+
+images:
+  - path: "artifacts/avishu/public/images/hero-fashion.png"
+    description: "High fashion editorial photography, monochromatic, high contrast, model in avant-garde minimal black clothing, dark background, cinematic lighting"
+    aspect_ratio: "16:9"
+  - path: "artifacts/avishu/public/images/product-placeholder.png"
+    description: "Minimalist fashion product photography, pure black background, dramatic lighting on a dark garment texture"
+    aspect_ratio: "3:4"
+
+notes:
+  - "Assuming @workspace/api-client-react correctly exports generated react-query hooks"
+  - "Following the strict pure black, white text, 1px border editorial fashion aesthetic"
+  - "Implementing auto-polling for orders in Franchise and Production views"
